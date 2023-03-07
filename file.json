@@ -1,0 +1,50 @@
+[
+    {
+        "nama_buah": "Mangga",
+        "quantity": "15",
+        "list_harga": 15000,
+        "bayarAwalan": 225000,
+        "diskon": 11250,
+        "pembayaran_akhir": 213750
+    },
+    {
+        "nama_buah": "Jambu",
+        "quantity": "5",
+        "list_harga": 10000,
+        "bayarAwalan": 50000,
+        "diskon": 0,
+        "pembayaran_akhir": 50000
+    },
+    {
+        "nama_buah": "Durian",
+        "quantity": "6",
+        "list_harga": 20000,
+        "bayarAwalan": 120000,
+        "diskon": 6000,
+        "pembayaran_akhir": 114000
+    },
+    {
+        "nama_buah": "Apel",
+        "quantity": "7",
+        "list_harga": 25000,
+        "bayarAwalan": 175000,
+        "diskon": 8750,
+        "pembayaran_akhir": 166250
+    },
+    {
+        "nama_buah": "Apel",
+        "quantity": "7",
+        "list_harga": 25000,
+        "bayarAwalan": 175000,
+        "diskon": 8750,
+        "pembayaran_akhir": 166250
+    },
+    {
+        "nama_buah": "Apel",
+        "quantity": "7",
+        "list_harga": 25000,
+        "bayarAwalan": 175000,
+        "diskon": 8750,
+        "pembayaran_akhir": 166250
+    }
+]
